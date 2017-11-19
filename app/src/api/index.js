@@ -1,0 +1,1 @@
+export const ITEMS_URL = 'https://private-372a7-periodic.apiary-mock.com/items';

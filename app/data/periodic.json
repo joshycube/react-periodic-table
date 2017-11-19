@@ -1,0 +1,172 @@
+  [
+    {
+      "name": "Peer review",
+      "short": "Pe",
+      "category": "practice"
+    },
+    {
+      "name": "Pair coding",
+      "short": "Pc",
+      "category": "practice"
+    },
+    {
+      "name": "Single responsibility",
+      "short": "Sr",
+      "category": "principle"
+    },
+    {
+      "name": "Planning",
+      "short": "Pl",
+      "category": "agile"
+    },
+    {
+      "name": "Spike",
+      "short": "Sp",
+      "category": "agile"
+    },
+    {
+      "name": "Complexity scoring",
+      "short": "Cs",
+      "category": "agile"
+    },
+    {
+      "name": "Continuous integration",
+      "short": "Ci",
+      "category": "practice"
+    },
+    {
+      "name": "Unit testing",
+      "short": "Un",
+      "category": "practice"
+    },
+    {
+      "name": "Pull request",
+      "short": "Pr",
+      "category": "practice"
+    },
+    {
+      "name": "Linting",
+      "short": "Li",
+      "category": "practice"
+    },
+    {
+      "name": "Build tools",
+      "short": "Bt",
+      "category": "essential"
+    },
+    {
+      "name": "Trust",
+      "short": "Tr",
+      "category": "team"
+    },
+    {
+      "name": "Test coverage",
+      "short": "Tc",
+      "category": "practice"
+    },
+    {
+      "name": "Ownership",
+      "short": "Ow",
+      "category": "team"
+    },
+    {
+      "name": "Delegation",
+      "short": "Dl",
+      "category": "team"
+    },
+    {
+      "name": "Refactoring",
+      "short": "Re",
+      "category": "practice"
+    },
+    {
+      "name": "Retrospective",
+      "short": "Ro",
+      "category": "agile"
+    },
+    {
+      "name": "Discovery",
+      "short": "Di",
+      "category": "essential"
+    },
+    {
+      "name": "Stand up",
+      "short": "St",
+      "category": "agile"
+    },
+    {
+      "name": "Sprint",
+      "short": "Si",
+      "category": "agile"
+    },
+    {
+      "name": "Technical debt",
+      "short": "Te",
+      "category": "agile"
+    },
+    {
+      "name": "Chore",
+      "short": "Ch",
+      "category": "agile"
+    },
+    {
+      "name": "Swim lanes",
+      "short": "Sw",
+      "category": "agile"
+    },
+    {
+      "name": "Scrum board",
+      "short": "Sb",
+      "category": "agile"
+    },
+    {
+      "name": "Decoupling",
+      "short": "De",
+      "category": "principle"
+    },
+    {
+      "name": "Rapid prototyping",
+      "short": "Ra",
+      "category": "practice"
+    },
+    {
+      "name": "Small improvements",
+      "short": "Sm",
+      "category": "practice"
+    },
+    {
+      "name": "Flow",
+      "short": "Fw",
+      "category": "essential"
+    },
+    {
+      "name": "Definition of done",
+      "short": "Dd",
+      "category": "agile"
+    },
+    {
+      "name": "Feature branch",
+      "short": "Fb",
+      "category": "practice"
+    },
+    {
+      "name": "Definition of ready",
+      "short": "Dr",
+      "category": "agile"
+    },
+    {
+      "name": "Scope",
+      "short": "Sc",
+      "category": "essential"
+    },
+    {
+      "name": "Cost",
+      "short": "Co",
+      "category": "essential"
+    },
+    {
+      "name": "Quality",
+      "short": "Qu",
+      "category": "essential"
+    }
+  ]
